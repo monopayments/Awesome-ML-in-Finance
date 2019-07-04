@@ -1,4 +1,4 @@
-# Awesome-ML-in-Finance
+# Awesome-ML-in-Finance [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *An open source Machine Learning in Finance repository to learn and apply towards solving real world problems.*
@@ -34,7 +34,7 @@ These questions should be answered at first, "What is Machine Learning?, What sh
 
 First of all, Machine Learning is a subset of Artificial Intelligence. ML is a method paradigm that makes inferences from existing data using mathematical and statistical methods and makes predictions about what is not known with these inferences.
 
-Secondly, Our favorite programming language is *Python* nowadays for #MachineLearning.[TensorFlow](https://www.tensorflow.org/), [Pandas](http://pandas.pydata.org/), [Numpy](https://www.numpy.org/), [Scikit learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) are Python Libraries which are used in Machine Learning.
+Secondly, Our favorite programming language is *Python* nowadays for #MachineLearning. [TensorFlow](https://www.tensorflow.org/), [Pandas](http://pandas.pydata.org/), [Numpy](https://www.numpy.org/), [Scikit learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) are Python Libraries which are used in Machine Learning.
 
 
 ## What is Machine Learning?
