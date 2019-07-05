@@ -151,7 +151,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [Machine Learning](https://twitter.com/machinelearn_d) 
 * [Machine Learning Lab](https://twitter.com/MaleLabTs)
 * [Machine Learning Mastery](https://twitter.com/TeachTheMachine)
-
+* [ICML Conference](https://twitter.com/icmlconf) -A premier international conference for researchers on machine learning
 
 ## Youtube Videos & Channels
 
