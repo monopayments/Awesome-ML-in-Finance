@@ -95,7 +95,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 ## The Relationship Machine Learning and Finance 
 
 * [Machine learning in finance: Why, what & how](https://towardsdatascience.com/machine-learning-in-finance-why-what-how-d524a2357b56)
-* [Machine Learning in Finance–Present and Future Applications] (https://emerj.com/ai-sector-overviews/machine-learning-in-finance/)
+* [Machine Learning in Finance – Present and Future Applications](https://emerj.com/ai-sector-overviews/machine-learning-in-finance/)
 
 ## Colleges
 
