@@ -101,8 +101,6 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ### A list of colleges and universities offering degrees in Machine Learning
 
-* [Stanford University (Stanford, CA)](https://online.stanford.edu/courses/cs229-machine-learning)
-
-
+* Stanford University (Stanford, CA)
 
 ## MOOC'S
