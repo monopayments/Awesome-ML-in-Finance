@@ -117,11 +117,11 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 
-## Bloggers
+## Blogs 
 
 * [O'reilly](https://www.oreilly.com/topics/ai)
 * [Springboard](https://www.springboard.com/blog/category/ai-machine-learning/)
-
+* [How To Start a Career In Artificial Intelligence In 2019?](https://medium.com/@albertchristopherr/how-to-start-a-career-in-artificial-intelligence-in-2019-a-step-by-step-guide-b18ad32d1b1f)
 
 ## Newsletters
 
