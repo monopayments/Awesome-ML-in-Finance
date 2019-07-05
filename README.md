@@ -115,3 +115,29 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [Machine Learning and Reinforcement Learning Specialization]( https://www.coursera.org/learn/guided-tour-machine-learning-finance)
 * [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+
+
+## Bloggers
+
+* [O'reilly](https://www.oreilly.com/topics/ai)
+
+
+## Newsletters
+
+
+## Podcasts
+
+
+## Books
+
+
+## Facebook Accounts
+
+
+## Twitter Accounts
+
+
+## Youtube Videos & Channels
+
+
+##
