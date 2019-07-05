@@ -83,7 +83,7 @@ These are some Machine Learning algorithms and models
  
 ### Semi-Supervised Learning : Some data is labeled but most of it is unlabeled and a mixture of supervised and unsupervised techniques can be used.
 
-### Reinforcement Learning : Learning what to do in an environment an how to map situations to actions to maximize a reward signal
+### Reinforcement Learning : Learning what to do in an environment and how to map situations to actions to maximize a reward signal
 - Q Learning
 - SARSA (State-Action-Reward-State-Action) algorithm
 - Temporal difference learning
@@ -108,7 +108,6 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
  * Columbia University (New York City, NY)
  * University of Pittsburgh (Pittsburgh, PA)
 
-* [
 
 ## MOOC'S
 
