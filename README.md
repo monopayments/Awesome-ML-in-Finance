@@ -101,16 +101,18 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ### A list of colleges and universities offering degrees in Machine Learning
 
-* Stanford University (Stanford, CA)
-* Harvard University (Cambridge, MA)
-* Cornell University (Ithaca, NY)
-* University of Maryland (College Park, MD)
-* Columbia University (New York City, NY)
-* University of Pittsburgh (Pittsburgh, PA)
+ * Stanford University (Stanford, CA)
+ * Harvard University (Cambridge, MA)
+ * Cornell University (Ithaca, NY)
+ * University of Maryland (College Park, MD)
+ * Columbia University (New York City, NY)
+ * University of Pittsburgh (Pittsburgh, PA)
 
+* [
 
 ## MOOC'S
 
 * [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 * [Machine Learning and Reinforcement Learning Specialization]( https://www.coursera.org/learn/guided-tour-machine-learning-finance)
-
+* [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
+* [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
