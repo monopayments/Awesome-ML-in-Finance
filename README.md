@@ -156,4 +156,3 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 ## Youtube Videos & Channels
 
 
-##
