@@ -148,6 +148,10 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ## Twitter Accounts
 
+* [Machine Learning](https://twitter.com/machinelearn_d) 
+* [Machine Learning Lab](https://twitter.com/MaleLabTs)
+* [Machine Learning Mastery](https://twitter.com/TeachTheMachine)
+
 
 ## Youtube Videos & Channels
 
