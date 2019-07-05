@@ -102,5 +102,11 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 ### A list of colleges and universities offering degrees in Machine Learning
 
 * Stanford University (Stanford, CA)
+* Harvard University (Cambridge, MA)
+* Cornell University (Ithaca, NY)
+* University of Maryland (College Park, MD)
+* Columbia University (New York City, NY)
+* University of Pittsburgh (Pittsburgh, PA)
+
 
 ## MOOC'S
