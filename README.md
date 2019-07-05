@@ -124,6 +124,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [Springboard](https://www.springboard.com/blog/category/ai-machine-learning/)
 * [How To Start a Career In Artificial Intelligence In 2019?](https://medium.com/@albertchristopherr/how-to-start-a-career-in-artificial-intelligence-in-2019-a-step-by-step-guide-b18ad32d1b1f)
 
+
 ## Newsletters
 
 
@@ -146,12 +147,14 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [Machine Learning Mastery](https://www.facebook.com/MachineLearningMastery/)
 * [Machine Learning](https://www.facebook.com/AIMachineLearning/)
 
+
 ## Twitter Accounts
 
 * [Machine Learning](https://twitter.com/machinelearn_d) 
 * [Machine Learning Lab](https://twitter.com/MaleLabTs)
 * [Machine Learning Mastery](https://twitter.com/TeachTheMachine)
 * [ICML Conference](https://twitter.com/icmlconf) -A premier international conference for researchers on machine learning
+
 
 ## Youtube Videos & Channels
 
