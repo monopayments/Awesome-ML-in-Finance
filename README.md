@@ -141,6 +141,10 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ## Facebook Accounts
 
+* [Data Mining / Machine Learning / Artificial Intelligence](https://www.facebook.com/groups/machinelearningforum/)
+* [Artificial intelligence and Machine Learning](https://www.facebook.com/groups/1955664064497065/)
+* [Machine Learning Mastery](https://www.facebook.com/MachineLearningMastery/)
+* [Machine Learning](https://www.facebook.com/AIMachineLearning/)
 
 ## Twitter Accounts
 
