@@ -133,22 +133,23 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ## Books
 
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
 * [Machine Learning Systems](https://www.manning.com/books/machine-learning-systems)
-* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 * [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
 
 ## Facebook Accounts
 
-* [Data Mining / Machine Learning / Artificial Intelligence](https://www.facebook.com/groups/machinelearningforum/)
 * [Artificial intelligence and Machine Learning](https://www.facebook.com/groups/1955664064497065/)
+* [Data Mining / Machine Learning / Artificial Intelligence](https://www.facebook.com/groups/machinelearningforum/)
 * [Machine Learning Mastery](https://www.facebook.com/MachineLearningMastery/)
 * [Machine Learning](https://www.facebook.com/AIMachineLearning/)
 
 
 ## Twitter Accounts
 
+* [Google Cloud Platform](https://twitter.com/GCPcloud) 
 * [Machine Learning](https://twitter.com/machinelearn_d) 
 * [Machine Learning Lab](https://twitter.com/MaleLabTs)
 * [Machine Learning Mastery](https://twitter.com/TeachTheMachine)
