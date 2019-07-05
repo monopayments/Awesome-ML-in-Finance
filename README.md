@@ -50,7 +50,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 
 ## Algorithms of ML
 
-These are some Machine Learning algorithms 
+These are some Machine Learning algorithms and models
 
 ### Supervised Learning : All data is labeled and the algorithms learn to predict the output from the input data.
 - Regression
