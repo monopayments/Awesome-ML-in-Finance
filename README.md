@@ -127,10 +127,16 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 ## Newsletters
 
 
+
 ## Podcasts
 
 
 ## Books
+
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
+* [Machine Learning Systems](https://www.manning.com/books/machine-learning-systems)
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
+* [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
 
 ## Facebook Accounts
