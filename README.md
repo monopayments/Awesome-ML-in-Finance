@@ -111,4 +111,6 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ## MOOC'S
 
-* [ Machine Learning and Reinforcement Learning in Finance, A Specialization on Coursera]( https://www.coursera.org/learn/guided-tour-machine-learning-finance)
+* [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
+* [Machine Learning and Reinforcement Learning Specialization]( https://www.coursera.org/learn/guided-tour-machine-learning-finance)
+
