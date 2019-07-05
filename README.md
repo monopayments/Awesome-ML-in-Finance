@@ -83,7 +83,7 @@ These are some Machine Learning algorithms and models
  
 ### Semi-Supervised Learning : Some data is labeled but most of it is unlabeled and a mixture of supervised and unsupervised techniques can be used.
 
-### Reinforcement Learning
+### Reinforcement Learning : Learning what to do in an environment an how to map situations to actions to maximize a reward signal
 - Q Learning
 - SARSA (State-Action-Reward-State-Action) algorithm
 - Temporal difference learning
