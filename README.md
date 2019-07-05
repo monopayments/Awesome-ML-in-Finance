@@ -120,6 +120,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 ## Bloggers
 
 * [O'reilly](https://www.oreilly.com/topics/ai)
+* [Springboard](https://www.springboard.com/blog/category/ai-machine-learning/)
 
 
 ## Newsletters
