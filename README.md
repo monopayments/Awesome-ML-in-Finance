@@ -159,3 +159,6 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 ## Youtube Videos & Channels
 
 
+* [TensorFlow](https://www.youtube.com/watch?v=VwVg9jCtqaU)-Machine Learning Zero to Hero
+* [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU) - Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning
+* [Google Cloud Platform](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)-The 7 Steps of Machine Learning
