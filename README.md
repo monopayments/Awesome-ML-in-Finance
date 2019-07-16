@@ -175,8 +175,7 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 
 
 ## Telegram Channels
-* [Machine Learning](https://web.telegram.org/#/im?p=@machinelearning24x7)
-
+* [Machine Learning]
 
 
 
