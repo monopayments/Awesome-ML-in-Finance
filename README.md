@@ -97,6 +97,10 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 * [Machine learning in finance: Why, what & how](https://towardsdatascience.com/machine-learning-in-finance-why-what-how-d524a2357b56)
 * [Machine Learning in Finance – Present and Future Applications](https://emerj.com/ai-sector-overviews/machine-learning-in-finance/)
+* [50 free Machine Learning datasets: Finance and Economics](https://blog.cambridgespark.com/50-free-machine-learning-datasets-part-two-financial-and-economic-datasets-6620274ee593)
+* [Machine Learning in Finance](https://www.datadriveninvestor.com/2019/02/08/machine-learning-in-finance/#)
+* [Ten Financial Applications of Machine Learning](
+https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007060083047068050089011071104123008102094121088018020025118033005042003064075025096088112088108038011069020027089113020003083104095021085004086120068090024093076072023117010021089116091115005068009118104076016066124&EXT=pdf)
 
 ## Colleges
 
@@ -123,12 +127,17 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [O'reilly](https://www.oreilly.com/topics/ai)
 * [Springboard](https://www.springboard.com/blog/category/ai-machine-learning/)
 * [How To Start a Career In Artificial Intelligence In 2019?](https://medium.com/@albertchristopherr/how-to-start-a-career-in-artificial-intelligence-in-2019-a-step-by-step-guide-b18ad32d1b1f)
+* [A Primer on AI & Machine Learning for Finance/Accounting](https://cdn2.hubspot.net/hubfs/4326424/Finance-Team-Primer-AI-ML-WhitePaper-Sigma-IQ-Final.pdf?utm_source=sigmaiq&utm_medium=blog)
 
 
 ## Newsletters
+* [Five Ways Machine Learning Will Change Your Finance Job in 2018](https://news.efinancialcareers.com/uk-en/306284/five-ways-machine-learning-will-change-finance-job-2018)
+* [Machine Learning-Based Classification of Market Phases](https://www.quantnews.com/machine-learning-based-classification-market-phases/)
+
 
 
 ## Podcasts
+* [4 Machine Learning Finance Interviews Worth Listening To](https://emerj.com/ai-future-outlook/machine-learning-finance-interviews-podcasts/)
 
 
 ## Books
@@ -157,5 +166,21 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 
 ## Youtube Videos & Channels
+* [Soledad Galli-Machine Learning in Financial Credit Risk Assessment](https://www.youtube.com/watch?v=KHGGlozsRtA)
+* [Charles Elkan,Goldman Sachs:Will Machine Learning Transform Finance?](https://www.youtube.com/watch?v=chgG0TgEPGo)
+* [How we can apply Machine Learning in Finance](https://www.youtube.com/watch?v=xGb9YNfgpuk)
+* [Q5:Good Uses of Machine Learning in Finance . Max Margenot](https://www.youtube.com/watch?v=Zj5sXWv9SDM)
+
+
+## Telegram Channels
+* Machine Learning
+
+
+## Journals, Publications and Magazines
+* [The 10 Reasons Most Machine Learning Funds Fail](https://poseidon01.ssrn.com/delivery.php?ID=829105006026085114091095102118114014051023066041063035095113102104026105089025027120017118056026029032013093103091083116095005053020057005079118073064029024065126072073083092015120076117073070001004018098126112072005030087113094119003003124116027098&EXT=pdf)
+* [Machine Learning in Finance: A Topic Modeling Approach](https://poseidon01.ssrn.com/delivery.php?ID=173022101119067098065081031124126064057072038035075028088075126101004122006004024111124122127028018042026073117104022031002096060013004075058102117086085072127030014065077087114092086002111122003030031071082008070070103083094015121010085090019125069&EXT=pdf)
+* [Machine Learning Projection Methods for Macro-Finance Models](https://poseidon01.ssrn.com/delivery.php?ID=241124005024106081113022011126012066007003009040033092067067109077117020028084020102114017055054029044016126096019090120118018008000007082048027116082080029070094074061093077021119096095016087068105020105072117103123012109114028082011077096000009082022&EXT=pdf)
+
+
 
 
