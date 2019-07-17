@@ -166,6 +166,6 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 
 ## Conferences
 
-* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](https://ml4p.org/)
-* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
+*  [Machine Learning for Programming](https://ml4p.org/)
+*  [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
     * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
