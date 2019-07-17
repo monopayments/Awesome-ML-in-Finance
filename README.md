@@ -19,8 +19,8 @@
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
 * [Telegram Channels ](#telegram-channels)
+* [Conferences](#conferences)
 * [Toolboxes - Environment](#toolboxes---environment)
-* [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Comics](#comics)
 * [Tutorials](#tutorials)
@@ -162,3 +162,10 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 * [TensorFlow](https://www.youtube.com/watch?v=VwVg9jCtqaU)-Machine Learning Zero to Hero
 * [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU) - Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning
 * [Google Cloud Platform](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)-The 7 Steps of Machine Learning
+
+
+## Conferences
+
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [Machine Learning for Programming](https://ml4p.org/)
+* <img src="badges/origin-academia-blue.svg" alt="origin-academia" align="top"> [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
+    * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
