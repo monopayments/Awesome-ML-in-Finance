@@ -19,8 +19,8 @@
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
 * [Telegram Channels ](#telegram-channels)
+* [Conferences](#conferences)
 * [Toolboxes - Environment](#toolboxes---environment)
-* [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Comics](#comics)
 * [Tutorials](#tutorials)
@@ -184,3 +184,13 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 
 
 
+* [TensorFlow](https://www.youtube.com/watch?v=VwVg9jCtqaU)-Machine Learning Zero to Hero
+* [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU) - Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning
+* [Google Cloud Platform](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)-The 7 Steps of Machine Learning
+
+
+## Conferences
+
+*  [Machine Learning for Programming](https://ml4p.org/)
+*  [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
+    * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
