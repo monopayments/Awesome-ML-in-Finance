@@ -1,4 +1,4 @@
- # Awesome-ML-in-Finance [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-ML-in-Finance [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *An open source Machine Learning in Finance repository to learn and apply towards solving real world problems.*
@@ -25,7 +25,7 @@
 * [Comics](#comics)
 * [Tutorials](#tutorials)
 * [Other Awesome Lists](#other-awesome-lists)
-
+* [Udemy](#Udemy)
 ## Information
 
 *This part is for coders who are new to Machine Learning*
@@ -103,6 +103,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007060083047068050089011071104123008102094121088018020025118033005042003064075025096088112088108038011069020027089113020003083104095021085004086120068090024093076072023117010021089116091115005068009118104076016066124&EXT=pdf)
 * [7 Ways Fintechs Use Machine Learning to Outsmart the Competition](https://igniteoutsourcing.com/fintech/machine-learning-in-finance/)
 * [What is the TensorFlow machine intelligence platform?](https://opensource.com/article/17/11/intro-tensorflow)
+
 
 
 ## Colleges
@@ -189,6 +190,7 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 
 
 
+
 * [TensorFlow](https://www.youtube.com/watch?v=VwVg9jCtqaU)-Machine Learning Zero to Hero
 * [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU) - Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning
 * [Google Cloud Platform](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)-The 7 Steps of Machine Learning
@@ -199,9 +201,27 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 *  [Machine Learning for Programming](https://ml4p.org/)
 *  [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
     * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
-
-
+ 
 ## Presentations
 * [Financial Machine Learning in 10 Minutes](https://poseidon01.ssrn.com/delivery.php?ID=508086097113082103073002081066085113049050018065023030127118009097116125127099116089060053008103037029119006115085115031080100061041040055013068094069068064082028027005008000015105104000103005114088000067111112106064074099102004075072072024114090086&EXT=pdf)
 * [Machine Learning in Finance](https://www.slideshare.net/code_zombie/machine-learning-in-finance)
 * [FinTech, AI, Machine Learning in Finance](https://www.slideshare.net/sanjivdas/fintech-ai-machine-learning-in-finance)
+
+
+
+
+## Udemy
+
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
+* [Machine Learning, Data Science and Deep Learning with Python ](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
+* [Python for Data Science and Machine Learning Bootcamp ](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
+* [Introduction to Machine Learning & Deep Learning in Python ](https://www.udemy.com/introduction-to-machine-learning-in-python/)
+* [Complete Guide to TensorFlow for Deep Learning with Python ](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/)
+* [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow ](https://www.udemy.com/tensorflow-2/)
+
+
+
+
+
+
+
