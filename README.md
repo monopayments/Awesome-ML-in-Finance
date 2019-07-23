@@ -25,7 +25,7 @@
 * [Comics](#comics)
 * [Tutorials](#tutorials)
 * [Other Awesome Lists](#other-awesome-lists)
-
+* [Udemy](#Udemy)
 ## Information
 
 *This part is for coders who are new to Machine Learning*
@@ -187,6 +187,39 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 * [Machine Learning in Finance: A Topic Modeling Approach](https://poseidon01.ssrn.com/delivery.php?ID=173022101119067098065081031124126064057072038035075028088075126101004122006004024111124122127028018042026073117104022031002096060013004075058102117086085072127030014065077087114092086002111122003030031071082008070070103083094015121010085090019125069&EXT=pdf)
 * [Machine Learning Projection Methods for Macro-Finance Models](https://poseidon01.ssrn.com/delivery.php?ID=241124005024106081113022011126012066007003009040033092067067109077117020028084020102114017055054029044016126096019090120118018008000007082048027116082080029070094074061093077021119096095016087068105020105072117103123012109114028082011077096000009082022&EXT=pdf)
 * [Artifical Intelligence and Machine Learning in Financial Services](https://www.fsb.org/wp-content/uploads/P011117.pdf)
+
+
+
+
+* [TensorFlow](https://www.youtube.com/watch?v=VwVg9jCtqaU)-Machine Learning Zero to Hero
+* [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU) - Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning
+* [Google Cloud Platform](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)-The 7 Steps of Machine Learning
+
+
+## Conferences
+
+*  [Machine Learning for Programming](https://ml4p.org/)
+*  [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
+    * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
+ 
+## Presentations
+* [Financial Machine Learning in 10 Minutes](https://poseidon01.ssrn.com/delivery.php?ID=508086097113082103073002081066085113049050018065023030127118009097116125127099116089060053008103037029119006115085115031080100061041040055013068094069068064082028027005008000015105104000103005114088000067111112106064074099102004075072072024114090086&EXT=pdf)
+* [Machine Learning in Finance](https://www.slideshare.net/code_zombie/machine-learning-in-finance)
+* [FinTech, AI, Machine Learning in Finance](https://www.slideshare.net/sanjivdas/fintech-ai-machine-learning-in-finance)
+
+
+
+
+## Udemy
+
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
+* [Machine Learning, Data Science and Deep Learning with Python ](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
+* [Python for Data Science and Machine Learning Bootcamp ](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
+* [Introduction to Machine Learning & Deep Learning in Python ](https://www.udemy.com/introduction-to-machine-learning-in-python/)
+* [Complete Guide to TensorFlow for Deep Learning with Python ](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/)
+* [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow ](https://www.udemy.com/tensorflow-2/)
+
+
 
 
 
