@@ -224,4 +224,18 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 
 
 
+* [TensorFlow](https://www.youtube.com/watch?v=VwVg9jCtqaU)-Machine Learning Zero to Hero
+* [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU) - Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning
+* [Google Cloud Platform](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)-The 7 Steps of Machine Learning
 
+
+## Conferences
+
+*  [Machine Learning for Programming](https://ml4p.org/)
+*  [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
+    * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
+ 
+## Presentations
+*[Financial Machine Learning in 10 Minutes](https://poseidon01.ssrn.com/delivery.php?ID=508086097113082103073002081066085113049050018065023030127118009097116125127099116089060053008103037029119006115085115031080100061041040055013068094069068064082028027005008000015105104000103005114088000067111112106064074099102004075072072024114090086&EXT=pdf)
+* [Machine Learning in Finance](https://www.slideshare.net/code_zombie/machine-learning-in-finance)
+* [FinTech, AI, Machine Learning in Finance](https://www.slideshare.net/sanjivdas/fintech-ai-machine-learning-in-finance)
