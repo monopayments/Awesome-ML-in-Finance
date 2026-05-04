@@ -239,3 +239,5 @@ https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007
 *[Financial Machine Learning in 10 Minutes](https://poseidon01.ssrn.com/delivery.php?ID=508086097113082103073002081066085113049050018065023030127118009097116125127099116089060053008103037029119006115085115031080100061041040055013068094069068064082028027005008000015105104000103005114088000067111112106064074099102004075072072024114090086&EXT=pdf)
 * [Machine Learning in Finance](https://www.slideshare.net/code_zombie/machine-learning-in-finance)
 * [FinTech, AI, Machine Learning in Finance](https://www.slideshare.net/sanjivdas/fintech-ai-machine-learning-in-finance)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — 10 autonomous AI trading agents on live CLOB exchange (Base L2). Market making, epoch keeping, smart routing, CyMetica-42 AI hedge fund arena. Pre-launch TGE predictions. [Agent Card](https://cymetica.com/.well-known/agent.json) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
