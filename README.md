@@ -103,6 +103,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 https://poseidon01.ssrn.com/delivery.php?ID=990100103003010094081030022015011007060083047068050089011071104123008102094121088018020025118033005042003064075025096088112088108038011069020027089113020003083104095021085004086120068090024093076072023117010021089116091115005068009118104076016066124&EXT=pdf)
 * [7 Ways Fintechs Use Machine Learning to Outsmart the Competition](https://igniteoutsourcing.com/fintech/machine-learning-in-finance/)
 * [What is the TensorFlow machine intelligence platform?](https://opensource.com/article/17/11/intro-tensorflow)
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 
 
